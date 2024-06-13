@@ -1,0 +1,27 @@
+{
+  "name": "discord-moderation",
+  "version": "1.0.0",
+  "description": "An NPM package to help with moderation system of your discord bot!",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord bot",
+    "discord moderation",
+    "discord.js"
+  ],
+  "author": "OwenBellowen",
+  "repository": {
+    "url": "https://github.com/OwenBellowen/discord-moderation"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "discord.js": "^14.15.3",
+    "mongoose": "^8.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
